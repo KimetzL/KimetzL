@@ -1,7 +1,8 @@
 ## 👋 ¡Hola! Soy Kimetz
 ### 🤖 IA & Big Data | 🛡️ Ciberseguridad | 💻 Sistemas
 
-Bienvenido/a a mi perfil de GitHub. Aquí encontrarás proyectos relacionados con análisis y ciencia de datos, inteligencia artificial, ciberseguridad y herramientas útiles que he ido desarrollando durante mi formación, experiencia y por iniciativa propia. Me apasiona explorar nuevas tecnologías y crear soluciones funcionales.
+Bienvenido/a a mi perfil de GitHub. Aquí encontrarás proyectos relacionados con análisis y ciencia de datos, inteligencia artificial, ciberseguridad y herramientas útiles que he ido desarrollando durante mi formación, experiencia y por iniciativa propia.
+Me apasiona explorar nuevas tecnologías y crear soluciones funcionales.
 
 ---
 
@@ -38,10 +39,15 @@ Bienvenido/a a mi perfil de GitHub. Aquí encontrarás proyectos relacionados co
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-2C5EA8?style=flat&logo=powershell&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=flat&logo=burpsuite&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-5A5A5A?style=flat&logo=knowledgebase&logoColor=white)
+![Criptografía](https://img.shields.io/badge/Criptografía-343434?style=flat&logo=gnupg&logoColor=white)
+![Auditorías](https://img.shields.io/badge/Auditorías-0B0B0B?style=flat&logo=veritas&logoColor=white)
 
 ---
 
-### ⚙️ Sistemas y Virtualización  
+### ⚙️ Sistemas, Virtualización y Programación Web
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=flat&logo=microsoft&logoColor=white)
