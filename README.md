@@ -17,11 +17,14 @@ Bienvenido/a a mi perfil de GitHub. Aquí encontrarás proyectos relacionados co
 
 ## 🚀 Tecnologías y herramientas
 
+
 ### 📊 Data, IA y Visualización  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-2C5DAA?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8088?style=flat)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-005A9C?style=flat&logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-000000?style=flat&logo=powerbi&logoColor=F2C811)
 
@@ -42,7 +45,7 @@ Bienvenido/a a mi perfil de GitHub. Aquí encontrarás proyectos relacionados co
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=flat&logo=microsoft&logoColor=white)
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=nodered&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-000000?style=flat&logo=proxmox&logoColor=E57000)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
