@@ -1,47 +1,73 @@
-👋 ¡Hola! Soy Kimetz  
-💻 Técnico en Sistemas | 🤖 Entusiasta de la IA y los Datos | 🧠 Aprendiz constante
+# 👋 ¡Hola! Soy Kimetz Loroño
 
-Bienvenido/a a mi perfil de GitHub. Aquí comparto proyectos relacionados con análisis de datos, inteligencia artificial, ciberseguridad y herramientas útiles que he ido desarrollando durante mi formación y por iniciativa propia.
+💻 Profesional IT | 🤖 Datos, Ciberseguridad e Inteligencia Artificial | 🌐 Sistemas y Automatización
+
+Bienvenido/a a mi perfil de GitHub. Aquí comparto proyectos relacionados con la administración de sistemas, la ciencia de datos, la inteligencia artificial, la visualización en Power BI y la ciberseguridad. Soy una persona resolutiva, curiosa y orientada a la mejora continua.
 
 ---
 
-🔥 **Sobre mí**
+## 🔥 Sobre mí
+
 🎓 Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)  
-🎓 Curso de Especialización en Inteligencia Artificial y Big Data
-🎓 Bootcamp de Ciberseguridad ofensiva y defensiva
-📌 Interesado en proyectos que combinen datos, automatización, seguridad y aprendizaje automático  
-🌱 Siempre aprendiendo nuevas herramientas y tecnologías  
-🔧 Me gusta crear soluciones prácticas, limpias y reutilizables  
-💡 Abierto a colaborar en proyectos de código abierto
+🎓 Especialización en Inteligencia Artificial y Big Data  
+🎓 Bootcamp de Ciberseguridad en The Bridge (2025)  
+📌 Experiencia profesional en soporte, análisis de datos y administración de sistemas  
+💡 En constante aprendizaje y evolución tecnológica
 
 ---
 
-🚀 **Tecnologías y herramientas que uso o he trabajado con**  
+## 🚀 Tecnologías y herramientas
 
-**Lenguajes de programación y scripting:**  
-`Python` · `Bash` · `HTML` · `CSS` · `PHP`
+### 🧠 Lenguajes y análisis de datos
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-**Librerías y frameworks de análisis y visualización de datos:**  
-`Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Scikit-learn` · `Power BI`
+### 📊 Visualización de datos
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-**Bases de datos y almacenamiento:**  
-`MySQL` · `MongoDB` · `XAMPP`
+### 🛠️ Infraestructura y virtualización
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat)
 
-**IA y Machine Learning:**  
-`Clasificación` · `Regresión` · `Clustering` · `Validación cruzada` · `Métricas`  
+### 🌐 Redes y sistemas
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat&logo=microsoft)
 
-**Sistemas y virtualización:**  
-`Linux` · `Windows Server` · `Proxmox` · `VMware` · `VirtualBox`
+### 💾 Bases de datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-**Contenedores y automatización:**  
-`Docker` · `Node-RED`
-
-**Desarrollo web y CMS:**  
-`WordPress` · `PHP` · `HTML/CSS`
+### 🌍 Otros
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
-💡 **Soft Skills / Competencias personales**
+## 💼 Experiencia destacada
+
+**🛡️ Administrador de Sistemas – Sermicro (2024)**  
+Infraestructura de red, copias de seguridad y soporte técnico.
+
+**📈 Analista de Datos – Diputación Foral de Bizkaia (2025)**  
+Chatbots en Rasa, dashboards en Power BI, y diseño de Design Systems.
+
+**🔧 Técnico de campo – Virtuimagen (2022–2023)**  
+Configuración de equipos, clonado de sistemas, montaje y reparación.
+
+**📞 Gestor de Soporte – Versia (2023–2024)**  
+Soporte remoto, WebServices, y atención al cliente en ciberseguridad.
+
+---
+
+## 💬 Competencias personales
+
 - Iniciativa y autonomía  
 - Pensamiento analítico  
 - Capacidad resolutiva  
@@ -52,9 +78,18 @@ Bienvenido/a a mi perfil de GitHub. Aquí comparto proyectos relacionados con an
 
 ---
 
-📫 **Conéctate conmigo**
-[LinkedIn](https://www.linkedin.com/in/tu-perfil) *(añade tu enlace personalizado)*
+## 📜 Certificaciones
+
+- Microsoft 365 Certified: Endpoint Administrator Associate  
+- ITIL Foundation Certificate in IT Service Management  
 
 ---
 
-✨ ¡Gracias por pasarte por aquí! ✨  
+## 🌐 Contacto
+
+📧 kimetz.l@hotmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kimetz-loro%C3%B1o-bengoa)
+
+---
+
+✨ ¡Gracias por visitar mi perfil! Si tienes alguna idea, colaboración o proyecto interesante, ¡escríbeme! ✨
