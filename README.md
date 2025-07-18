@@ -1,17 +1,17 @@
-## 👋 ¡Hola! Soy Kimetz Loroño  
-### 💻 Técnico en Sistemas | 🤖 Datos, IA y Ciberseguridad | ⚙️ Automatización y Virtualización
+## 👋 ¡Hola! Soy Kimetz
+### 🤖 IA & Big Data | 🛡️ Ciberseguridad | 💻 Sistemas
 
-Bienvenido/a a mi perfil de GitHub. Aquí encontrarás proyectos relacionados con análisis de datos, inteligencia artificial, automatización de procesos, administración de sistemas y ciberseguridad. Me apasiona explorar nuevas tecnologías y crear soluciones funcionales y bien estructuradas.
+Bienvenido/a a mi perfil de GitHub. Aquí encontrarás proyectos relacionados con análisis y ciencia de datos, inteligencia artificial, ciberseguridad y herramientas útiles que he ido desarrollando durante mi formación, experiencia y por iniciativa propia. Me apasiona explorar nuevas tecnologías y crear soluciones funcionales.
 
 ---
 
 ## 🔥 Sobre mí
 - 🎓 Técnico en Administración de Sistemas Informáticos en Red (ASIR)
-- 🎓 Especialización en Inteligencia Artificial y Big Data
-- 🎓 Bootcamp de Ciberseguridad (The Bridge, 2025)
-- 🌱 Actualmente ampliando conocimientos en hacking ético, pipelines de datos e IA generativa
-- 💡 Interesado en machine learning, virtualización, redes y automatización de tareas
+- 📊 Especialización en Inteligencia Artificial y Big Data
+- 🛡️ Bootcamp de Ciberseguridad Ofensiva y Defensiva
+- 💡 En constante aprendizaje y evolución tecnológica
 - 🛠️ Buscando aplicar mi experiencia técnica en proyectos innovadores, colaborativos y abiertos
+
 
 ---
 
